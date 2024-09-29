@@ -1,1 +1,2 @@
 - Live Site URL: [Click](https://rubchenkoartem.github.io/mywebsite-portfolio/index.html)
+- ![Preview for the Web Site](./images/perwiew.png)
